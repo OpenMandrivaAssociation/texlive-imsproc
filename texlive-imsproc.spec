@@ -47,3 +47,12 @@ package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1-2
++ Revision: 813577
+- Update to latest release.
+- Import texlive-imsproc
+- Import texlive-imsproc
+

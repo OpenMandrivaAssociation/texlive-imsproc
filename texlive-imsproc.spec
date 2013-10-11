@@ -1,12 +1,12 @@
-# revision 26198
+# revision 29803
 # category Package
 # catalog-ctan /macros/xetex/latex/imsproc
-# catalog-date 2012-05-02 17:05:01 +0200
+# catalog-date 2013-04-04 12:47:47 +0200
 # catalog-license lppl1.3
 # catalog-version 0.1
 Name:		texlive-imsproc
 Version:	0.1
-Release:	2
+Release:	3
 Summary:	Typeset IMS conference proceedings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/imsproc
@@ -47,12 +47,3 @@ package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1-2
-+ Revision: 813577
-- Update to latest release.
-- Import texlive-imsproc
-- Import texlive-imsproc
-

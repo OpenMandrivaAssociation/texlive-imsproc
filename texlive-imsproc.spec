@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-imsproc
 Version:	0.1
-Release:	12
+Release:	13
 Summary:	Typeset IMS conference proceedings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/imsproc

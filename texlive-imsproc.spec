@@ -1,6 +1,6 @@
 Name:		texlive-imsproc
 Version:	29803
-Release:	1
+Release:	2
 Summary:	Typeset IMS conference proceedings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/imsproc

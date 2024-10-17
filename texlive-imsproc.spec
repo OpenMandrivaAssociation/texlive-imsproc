@@ -3,7 +3,7 @@ Version:	29803
 Release:	2
 Summary:	Typeset IMS conference proceedings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/imsproc
+URL:		https://www.ctan.org/tex-archive/macros/xetex/latex/imsproc
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/imsproc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/imsproc.doc.r%{version}.tar.xz
